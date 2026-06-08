@@ -1,0 +1,10 @@
+Size_1000_sqft,Actual_Price_100k,Dataset_Split
+1.0,2.0,Train
+2.0,4.0,Train
+3.0,5.5,Train
+4.0,7.0,Train
+1.5,3.1,Train
+3.5,6.2,Train
+2.5,4.5,Test
+5.0,8.8,Test
+6.0,10.5,Test
